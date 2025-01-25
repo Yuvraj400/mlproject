@@ -1,4 +1,4 @@
-from setup import find_packages,setup
+from setuptools import setup, find_packages
 from typing import List
 
 
